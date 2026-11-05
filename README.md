@@ -69,5 +69,5 @@ Bug reports, compatibility reports, and feature suggestions are welcome through 
 <p align="center">
   <img src="assets/screenshot1.jpg" width="30%" />
   <img src="assets/screenshot2.jpg" width="30%" />
-  <img src="assets/screenshot3.jpg" width="30%" />
+  <img src="assets/screenshot3_v2.jpg" width="30%" />
 </p>
