@@ -1,0 +1,16 @@
+# Development backups
+*.bak
+*.backup
+*.pre-profile.*
+
+# Appman runtime files
+.appman.view.*
+.appman.profiles.*
+.appman.tabs.*
+.appman.shortcuts.*
+
+# Editor files
+.DS_Store
+*~
+*.swp
+*.swo
