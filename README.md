@@ -24,10 +24,12 @@ Appman provides an interactive interface for browsing installed applications, sw
 ## Installation
 
 ```sh
-git clone https://github.com/royalewhite/Appman.git
+```bash
+git clone https://github.com
 cd Appman
 chmod 755 appman appman-preview appman-profiles
 ./appman
+```
 ```
 
 ## Keyboard controls
