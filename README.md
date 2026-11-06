@@ -15,6 +15,17 @@ Appman provides an interactive interface for managing apps, profiles, and packag
 git clone https://github.com/royalewhite/Appman.git
 cd Appman
 ./appman
+\n## Global Access
+
+To run Appman from any directory in Termux without typing `./` or changing folders, create a symlink to your system binaries:
+
+```bash
+ln -s "PWD/appman" PREFIX/bin/appman
+```
+
+Now you can launch the app from anywhere simply by running:
+```bash
+appman
 ```
 
 - **ALT-1 to 9 / Headers:** Switch profiles or filters | **ALT-U / ALT-Y:** User/System apps
