@@ -12,7 +12,7 @@ Appman provides an interactive interface for managing apps, profiles, and packag
 ## Installation
 
 ```bash
-git clone https://github.com
+git clone https://github.com/royalewhite/Appman.git
 cd Appman
 ./appman
 ```
