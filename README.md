@@ -21,7 +21,7 @@ cd Appman
 To run Appman from any directory in Termux, link it to your system binaries:
 
 ```bash
-ln -s "PWD/appman" PREFIX/bin/appman
+ln -s "$PWD/appman" $PREFIX/bin/appman
 ```
 
 Now you can launch it from anywhere simply by running `appman`.
