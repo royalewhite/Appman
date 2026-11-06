@@ -10,14 +10,13 @@ Appman provides an interactive interface for managing apps, profiles, and packag
 - **Requirements:** Android with root access, Termux, `fzf`, a working root-capable `sudo` command, and optional `aapt2`.
 
 ## Installation
+
 ```bash
-git clone https://github.com/royalewhite/Appman.git
+git clone https://github.com
 cd Appman
-chmod 755 appman appman-preview appman-profiles
 ./appman
 ```
 
-## Keyboard Controls & Safety
 - **ALT-1 to 9 / Headers:** Switch profiles or filters | **ALT-U / ALT-Y:** User/System apps
 - **SPACE / U:** Select/deselect or clear | **ENTER / CTRL-F / CTRL-T:** Uninstall, freeze, or enable
 - **CTRL-R / ESC / ? / CTRL-Q:** Search controls, help, and quit
